@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0cf9c43-45d0-44eb-915f-e29b6146c343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/color-name/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/component-emitter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/.vs/ProjectSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/.vs/ProjectSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/.vs/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/.vs/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/lib/dateformat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/dateformat/lib/dateformat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/links" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-00/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/links" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-01/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/links" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-02/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/address" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/address" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/calendar" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/calendar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/card" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/card" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/geo" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/geo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/interfaces" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/examples/interfaces" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/json-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/links" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-03/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-04/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-04/hyper-schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-04/links" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-04/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-04/schema" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-04/schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-zyp-json-schema-03.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-zyp-json-schema-03.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-zyp-json-schema-04.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/lib/links.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/lib/links.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/lib/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/lib/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/test/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/json-schema/test/tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/node-gyp/gyp/gyp.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/node-gyp/gyp/gyp.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/node-gyp/gyp/samples/samples.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/node-gyp/gyp/samples/samples.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/lib/runTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/orchestrator/lib/runTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/.jshintignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/.jshintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/pretty-hrtime/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/.jshintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/resolve-url.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/resolve-url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/test/resolve-url.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/resolve-url/test/resolve-url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/sequencify/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/true-case-path/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/true-case-path/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/true-case-path/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/true-case-path/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/true-case-path/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/true-case-path/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/.jshintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_15/node_modules/urix/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-468666546">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="3" />
+          <entry key="json" value="1" />
+          <entry key="scss" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="33" />
+          <entry key="html" value="2" />
+          <entry key="js" value="68" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="68" />
+          <entry key="PLAIN_TEXT" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="721" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0cf9c43-45d0-44eb-915f-e29b6146c343" name="Default Changelist" comment="" />
+      <created>1536334287265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536334287265</updated>
+      <workItem from="1536334288422" duration="5158000" />
+      <workItem from="1536497422062" duration="781000" />
+    </task>
+    <task id="LOCAL-00001" summary="shop">
+      <created>1536334600155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536334600155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="shop">
+      <created>1536496732772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536496732772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5939000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="721" height="709" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32428572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="shop" />
+    <option name="LAST_COMMIT_MESSAGE" value="shop" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

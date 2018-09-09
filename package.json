@@ -1,0 +1,30 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariia30/EasyCode.git"
+  },
+  "keywords": [
+    "project",
+    "test"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariia30/EasyCode/issues"
+  },
+  "homepage": "https://github.com/Mariia30/EasyCode#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-tinypng": "^1.0.2",
+    "rigger": "^1.0.0"
+  }
+}
