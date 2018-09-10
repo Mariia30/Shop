@@ -21,10 +21,17 @@
   },
   "homepage": "https://github.com/Mariia30/EasyCode#readme",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-tinypng": "^1.0.2",
-    "rigger": "^1.0.0"
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-rigger": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-tinify": "latest",
+    "gulp-uglify-es": "latest",
+    "gulp-watch": "latest",
+    "run-sequence": "latest"
   }
 }
