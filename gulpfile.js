@@ -12,12 +12,13 @@ var gulp = require('gulp'),
     prefixer = require('gulp-autoprefixer'),
     cssmin = require('gulp-clean-css'),
 
-    watch = require('gulp-watch'),
-    uglify = require('gulp-uglify-es').default,
+    uglify = require('gulp-uglify-es'),
 
     tinypng = require('gulp-tinify'),
     del = require('del'),
-    runSequence = require('run-sequence');
+    runSequence = require('run-sequence'),
+
+    watch = require('gulp-watch');
 
 var path = {
     server_dir: './build',
